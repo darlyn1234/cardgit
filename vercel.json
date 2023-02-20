@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://github.com/darlyn/cardgit"
+      "destination": "https://cardgit.vercel.app/api/"
     }
   ]
 }
